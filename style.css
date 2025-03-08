@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.html,
+body{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+}
+
+.header {
+    background-color: #2965f1;
+}
+
+.span {
+
+}
+
